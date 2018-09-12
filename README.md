@@ -1,1 +1,1 @@
-![图片](http://github.com/liujieyuu/CustomActionSheet/IMG_7285.png)
+![image](http://github.com/liujieyuu/CustomActionSheet/pic/IMG7285.png)
