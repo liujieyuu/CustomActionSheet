@@ -1,1 +1,1 @@
-![image](http://github.com/liujieyuu/CustomActionSheet/CustomActionSheet/pic/IMG7285.png)
+![image](http://github.com/liujieyuu/CustomActionSheet/raw/master/CustomActionSheet/pic/IMG7285.png)
