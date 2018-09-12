@@ -1,6 +1,7 @@
   扔数据源即可，支持单选多选
   
   FHPickerView *alertView = [[FHPickerView alloc] initWithDataSource:@[@"每周日", @"每周一", @"每周二", @"每周三", @"每周四", @"每周五", @"每周六"]];
+  
     alertView.leftBlock = ^{
         [[HWPopTool sharedInstance] closeWithBlcok:nil];
         
